@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "690831502819",
+    "project_id": "fir-realtime-database-acd50",
+    "storage_bucket": "fir-realtime-database-acd50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690831502819:android:a9ebad54a437dc415744d6",
+        "android_client_info": {
+          "package_name": "uz.turgunboyevjurabek.firebase_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690831502819-kkf452bc90kf51957gfbga7di3u3vo3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprPrA7Tu8nj2DPj3_LH3oANWCUPEfppg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690831502819-kkf452bc90kf51957gfbga7di3u3vo3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690831502819:android:829fddbd22ef5e375744d6",
+        "android_client_info": {
+          "package_name": "uz.turgunboyevjurabek.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690831502819-kkf452bc90kf51957gfbga7di3u3vo3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprPrA7Tu8nj2DPj3_LH3oANWCUPEfppg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690831502819-kkf452bc90kf51957gfbga7di3u3vo3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
